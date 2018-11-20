@@ -82,7 +82,7 @@ body {
   #images {
     /* Box-model */
     padding-top: 15px;
-  
+    
     /* Typography */
     text-align: center;
   }
@@ -152,7 +152,11 @@ body {
   /* PORTFOLIO PAGE */
   .port-image {
     margin: 20px auto;
+    
   }
+  
+  
+  
   /* END PORTFOLIO PAGE */
   
   
