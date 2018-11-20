@@ -94,6 +94,8 @@ body {
     /* Positioning */
     position: absolute;
     bottom: 0;
+    
+  
   
     /* Box-model */
     width: 100%;
@@ -119,6 +121,7 @@ body {
     /* Visual */
     background-color: #4aaaa5;
   }
+  
   /* END FOOTER */
   /* --- END STYLES FOR ALL PAGES --- */
   
